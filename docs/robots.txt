@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://agenciaolhooptico.github.io/cintia-kimura/sitemap.xml

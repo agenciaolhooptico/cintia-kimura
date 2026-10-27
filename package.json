@@ -1,0 +1,10 @@
+{
+  "name": "cintia-kimura",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "build": "node src/build.mjs",
+    "check": "node --check src/build.mjs && node --check src/carousel.js"
+  }
+}
